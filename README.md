@@ -1,12 +1,24 @@
-# portofolio
-try with jekyll
+# Local running step (VSCode)
+Step 1:
+
+Download docker, and install `Dev containers` extension on VSCode
+
+Step 2: 
+
+```
+ctrl + shift + p
+Dev containers: Open Folder in container
+``` 
 
 
-Step 1: 
+Step 3:
+```
+bundle install
+bundle exec jekyll serve --livereload
+```
 
-ctrl + shift + p, open dev in docker container
+# Issue encountered in the build
 
-Step 2:
+1. VSCode shows error `Dev Container Configuration '.devcontainer/devcontainer.json' file already exists.`
 
-`bundle install`
-`bundle exec jekyll serve --livereload`
+    Check [Solution](https://github.com/microsoft/vscode-remote-release/issues/9303)
