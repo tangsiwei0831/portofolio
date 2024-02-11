@@ -4,4 +4,6 @@
 
 layout: home
 permalink: /
+layout: home
 ---
+Feel free to explore for knowledge and resource!

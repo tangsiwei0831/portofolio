@@ -25,3 +25,4 @@ bundle exec jekyll serve --livereload
 
 # Resource
 [Youtube - BillRaymond](https://www.youtube.com/watch?v=zijOXpZzdvs&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
+[Sample website using chapter](https://github.com/Emadmasroor/Guide-Perplexed)

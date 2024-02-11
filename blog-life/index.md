@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-life
-title: "Life Share"
+title: "Life"
 category: life
 ---
