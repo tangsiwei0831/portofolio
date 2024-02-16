@@ -6,4 +6,5 @@ layout: home
 permalink: /
 layout: home
 ---
-Feel free to explore for knowledge and resource!
+This is a place for record and explore!
+
