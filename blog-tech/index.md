@@ -5,4 +5,5 @@
 layout: home-tech
 title: "Tech"
 category: Tech
+permalink: /tech
 ---

@@ -5,4 +5,5 @@
 layout: home-life
 title: "Life"
 category: life
+permalink: /life
 ---
