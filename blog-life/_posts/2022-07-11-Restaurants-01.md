@@ -10,7 +10,7 @@ category: life
 
 [Egg Club](https://eggclub.ca/): 4.5/5. A decent sandiwich, socre can be higher if price lower.
 
-[Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, decliciosu food, my favorite Thai food in Toronto.
+[Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, declicious food, my favorite Thai food in Toronto.
 
 [Lee](https://leerestaurant.com/): 4.3/5. Average price 100+, Singapore style slaw worth to try, other is also ok, worth to go for one time.
 
