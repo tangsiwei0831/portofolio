@@ -3,6 +3,7 @@ layout: post
 title:  "Toronto Restaurants"
 date:   2022-07-11 18:55:17
 category: life
+permalink: /life/restaurants
 ---
 [Byblos](https://byblosdowntown.com/): 4.9/5. Eastern Mediterranean cuisine, always worth to go to, lamb ribs top recommendation.
 
@@ -13,6 +14,8 @@ category: life
 [Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, declicious food, my favorite Thai food in Toronto.
 
 [Lee](https://leerestaurant.com/): 4.3/5. Average price 100+, Singapore style slaw worth to try, other is also ok, worth to go for one time.
+
+[Mother](https://motherdrinks.co/): 4.9/5. Good price, good drink, always worth to go, top recommendation is their fries!
 
 [OEB](https://eatoeb.com/locations/toronto/?gclid=CjwKCAiAk9itBhASEiwA1my_61YsuBPw7S77-js1K5fg0TCPPQ18PB4cSD6sXOLOaIQ28aTUGCfYiBoCp1YQAvD_BwE): 4.5/5. Brunch Restaurant, main dishes are good, glass is tricky, the volume is smaller than what you think.
 
