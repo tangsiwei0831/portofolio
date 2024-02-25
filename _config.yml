@@ -33,7 +33,7 @@ title-logo: /images/logo.jpg
 # Build settings
 markdown: kramdown
 # Removed minima theme
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 

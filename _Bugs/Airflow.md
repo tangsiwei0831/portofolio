@@ -16,7 +16,7 @@ Airflow template pipeline consists of three files
 The dataflow file aims for reading data from source database and then pass data and schema to Google Cloud BigQuery. Since there are many tables in source database, in order to make one dataflow job to matches with all tables, we need to make all variables dynamic instead of hardcoding. So parameter needs to pass from airflow job to dataflow job in order to make every variable dynamic. This question is about the pass of schema, which is JSON format.
 
 # Difficulties & solution
-1. In order to pass the schema JSON object, we need to pass the schema in `DataflowTemplatedJobStartOperator`. 
+In order to pass the schema JSON object, we need to pass the schema in `DataflowTemplatedJobStartOperator`. 
 The schema needs to be passed as JSON string since the operator does not allow any other types to be passed
 
 ```
@@ -33,7 +33,7 @@ tid=DataflowTemplatedJobStartOperator(
 )
 ```
 
-2. In dataflow job, the parameters can be used in several ways. Noted that parameters type is RuntimeValueProvider, so we cannot directly use it in pipeline construction.
+In dataflow job, the parameters can be used in several ways. Noted that parameters type is RuntimeValueProvider, so we cannot directly use it in pipeline construction.
 
 ```
 # Create subclass of PipelineOptions and then add aruguments
