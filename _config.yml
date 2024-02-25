@@ -37,11 +37,20 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-# collections:
-#   Restaurants:
-#     output: true
-#     permalink: /portfolio/:path/
-#     sort_by: chapter
+collections:
+  Bugs:
+    output: true
+    permalink: /portfolio/:path/
+    sort_by: order
+  Movies:
+    output: true
+    permalink: /portfolio/:path/
+    sort_by: order
+  Restaurants:
+    output: true
+    permalink: /portfolio/:path/
+    sort_by: order
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

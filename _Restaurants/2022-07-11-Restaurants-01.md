@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Toronto Restaurants"
+title:  "Toronto"
 date:   2022-07-11 18:55:17
 category: life
-permalink: /life/restaurants
+permalink: /life/restaurants/toronto
+order: 1
 ---
 [Byblos](https://byblosdowntown.com/): 4.9/5. Eastern Mediterranean cuisine, always worth to go to, lamb ribs top recommendation.
 
@@ -24,3 +25,5 @@ permalink: /life/restaurants
 [St Lawrence Market](http://www.stlawrencemarket.com/): 4.8/5. I like the crispy pork belly, calamari and lobster sandwitch over there, furits and meats are fresh, good place for shopping and visit
 
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 4.1/5. Good price and location, close to union station, worth to go after work with colleagues.
+
+[西域食府](https://magicaltasteofchina.com/dt476): 4.3/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
