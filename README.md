@@ -23,7 +23,6 @@ bundle exec jekyll serve --livereload
 
     Check [Solution](https://github.com/microsoft/vscode-remote-release/issues/9303)
 
-
 # Resource
 [Youtube - BillRaymond](https://www.youtube.com/watch?v=zijOXpZzdvs&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
 [Guide-Perplexed](https://github.com/Emadmasroor/Guide-Perplexed)
