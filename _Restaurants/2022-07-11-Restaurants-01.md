@@ -27,3 +27,5 @@ order: 1
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 4.1/5. Good price and location, close to union station, worth to go after work with colleagues.
 
 [西域食府](https://magicaltasteofchina.com/dt476): 4.3/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
+
+[一家川菜馆](https://www.yijiachuancaiguan.com/): 4.3/5. close to UTSG, good price, ok food, cash price including tax 80 dollar is enough for at least three people have meal.
