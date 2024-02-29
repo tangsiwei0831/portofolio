@@ -10,6 +10,7 @@ ctrl + shift + p
 Dev containers: Open Folder in container
 ``` 
 
+
 Step 3:
 ```
 bundle install

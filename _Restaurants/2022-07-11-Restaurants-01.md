@@ -22,7 +22,9 @@ order: 1
 
 [Shinta](https://shintabbq.ca/): 4.6/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
-[St Lawrence Market](http://www.stlawrencemarket.com/): 4.8/5. I like the crispy pork belly, calamari and lobster sandwitch over there, furits and meats are fresh, good place for shopping and visit
+[St Lawrence Market](http://www.stlawrencemarket.com/): 4.8/5. I like the crispy pork belly, calamari and lobster sandwitch over there, furits and meats are fresh, good place for shopping and visit.
+
+[The Keg](https://thekeg.com/en?gad_source=1&gclid=EAIaIQobChMI16DBlaTPhAMVMnNHAR0uEwi1EAAYASAAEgKdIvD_BwE):4.2/5. Ok price for try steak.
 
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 4.1/5. Good price and location, close to union station, worth to go after work with colleagues.
 
