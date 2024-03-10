@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "1. Airflow templating pipeline"
+title:  "Airflow templating pipeline"
 category: tech
 permalink: /tech/bugs/airflow
 order: 1
 ---
 # Structure
 Airflow template pipeline consists of three files
-* Airflow file for creating DAGS to schedule tasks
+* Airflow file for creating DAGs to schedule tasks
 * YAML file for as he input configuration for airflow job, including table schema, DAG name etc
 * Dataflow file which is called by airflow file to create tasks
 
