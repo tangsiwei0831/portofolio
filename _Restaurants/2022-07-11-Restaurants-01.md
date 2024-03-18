@@ -16,8 +16,6 @@ order: 1
 
 [Lee](https://leerestaurant.com/): 4.3/5. Average price 100+, Singapore style slaw worth to try, other is also ok, worth to go for one time.
 
-[Miller Tavern](https://themillertavern.com/): 4.4/5. Ok food, amount is not small, price not cheap, if you reach around lake, could have a try.
-
 [Mother](https://motherdrinks.co/): 4.9/5. Good price, good drink, always worth to go, top recommendation is their fries!
 
 [OEB](https://eatoeb.com/locations/toronto/?gclid=CjwKCAiAk9itBhASEiwA1my_61YsuBPw7S77-js1K5fg0TCPPQ18PB4cSD6sXOLOaIQ28aTUGCfYiBoCp1YQAvD_BwE): 4.5/5. Brunch Restaurant, main dishes are good, glass is tricky, the volume is smaller than what you think.
