@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post
 title:  "Restaurants"
 date:   2024-02-24 19:01:00
@@ -15,4 +15,4 @@ permalink: /life/restaurants
     ({{ entry.highlights }})
   {% endif %}
   </h3>
-{% endfor %} -->
+{% endfor %}
