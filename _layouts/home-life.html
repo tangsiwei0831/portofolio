@@ -1,22 +1,22 @@
 ---
 layout: default
 ---
-
+<!-- 
 <div class="home">
   {%- if page.title -%}
-    <!-- <h1 class="page-heading">{{ page.title }}</h1> -->
+    <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       {%- if post.category=="life" -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -30,7 +30,46 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
+</div> -->
+<div class="home"></div>
+<h2> Restaurant </h2>
+<ul style="list-style-type: circle">
+  {% assign restaurants = site.Restaurants | sort:"order" %}
+  {% for entry in restaurants %}
+    <li>
+      <h3>
+        <a href="{{site.baseurl}}{{entry.url}}">
+          {{ entry.title }}
+        </a>
+      </h3>
+    {% if entry.highlights %}
+      ({{ entry.highlights }})
+    {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+<h2> Food </h2>
+
+<h2> Movies </h2>
+<ul style="list-style-type: circle">
+  {% assign movies = site.Movies | sort:"order" %}
+  {% for entry in movies %}
+    <li>
+        <h3>
+          <a href="{{site.baseurl}}{{entry.url}}">
+            {{ entry.title }}
+          </a>
+        </h3>
+      {% if entry.highlights %}
+        ({{ entry.highlights }})
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+<h2> Poetry </h2>
 </div>
