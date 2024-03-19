@@ -15,7 +15,7 @@ Airflow template pipeline consists of three files
 # Condition
 The dataflow file aims for reading data from source database and then pass data and schema to Google Cloud BigQuery. Since there are many tables in source database, in order to make one dataflow job to matches with all tables, we need to make all variables dynamic instead of hardcoding. So parameter needs to pass from airflow job to dataflow job in order to make every variable dynamic. This question is about the pass of schema, which is JSON format.
 
-# Difficulties & solution
+# Difficulty & solution
 In order to pass the schema JSON object, we need to pass the schema in `DataflowTemplatedJobStartOperator`. 
 The schema needs to be passed as JSON string since the operator does not allow any other types to be passed
 
@@ -85,3 +85,6 @@ def run():
             ...
         )
 ```
+
+# Note
+For pass the parameters bewteen airflow and dataflow job, rememeber to keep it short, otherwise will exceed [the hard limit of Google API request length](https://cloud.google.com/knowledge/kb/error-400-bad-request-request-payload-size-exceeds-the-limit-000004321#:~:text=The%20error%20Request%20payload%20size,limit%20and%20cannot%20be%20increased.)
