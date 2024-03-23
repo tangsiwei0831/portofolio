@@ -36,7 +36,7 @@ order: 1
 
 [Shinta](https://shintabbq.ca/): 4.6/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
-[shoeless joe's sports grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad...
+[Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad...
 
 [St Lawrence Market](http://www.stlawrencemarket.com/): 4.8/5. I like the crispy pork belly, calamari and lobster sandwitch over there, furits and meats are fresh, good place for shopping and visit.
 
