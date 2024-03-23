@@ -18,11 +18,13 @@ order: 1
 
 [富来小厨](https://www.facebook.com/sangsfood/?locale=zh_CN): 4.5/5. Japanese Toufu and Chiken hot pot is great, needs to book in advance.
 
+[好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.5/5. Ok taste, price not expensive with discount in cash.
+
 [Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, declicious food, my favorite Thai food in Toronto.
 
 [Lee](https://leerestaurant.com/): 4.3/5. Average price 100+, Singapore style slaw worth to try, other is also ok, worth to go for one time.
 
-[麻布](https://mabugeneration.com)：4.1/5. Order the out for delivery food, quantity is small compared to previous one.
+[麻布](https://mabugeneration.com)：4.0/5. Order the out for delivery food, quantity is small compared to previous one.
 
 [Miller Tavern](https://themillertavern.com/): 4.4/5. Ok food, amount is not small, price not cheap, if you reach around lake, could have a try.
 
@@ -34,6 +36,8 @@ order: 1
 
 [Shinta](https://shintabbq.ca/): 4.6/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
+[shoeless joe's sports grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad...
+
 [St Lawrence Market](http://www.stlawrencemarket.com/): 4.8/5. I like the crispy pork belly, calamari and lobster sandwitch over there, furits and meats are fresh, good place for shopping and visit.
 
 [The Keg](https://thekeg.com/en?gad_source=1&gclid=EAIaIQobChMI16DBlaTPhAMVMnNHAR0uEwi1EAAYASAAEgKdIvD_BwE):4.2/5. Ok price for try steak.
@@ -42,6 +46,6 @@ order: 1
 
 [西域食府](https://magicaltasteofchina.com/dt476): 4.3/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
 
-[一家川菜馆](https://www.yijiachuancaiguan.com/): 4.3/5. close to UTSG, good price, ok food, cash price including tax 80 dollar is enough for at least three people have meal.
+[一家川菜馆](https://www.yijiachuancaiguan.com/): 4.2/5. close to UTSG, good price, ok food, cash price including tax 80 dollar is enough for at least three people have meal.
 
 [有米酸奶](https://www.yomiesriceyogurt.com/): 4.7/5. Order Mango Pomelo Sago Yogurt, I like it!
