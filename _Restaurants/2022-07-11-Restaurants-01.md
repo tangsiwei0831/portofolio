@@ -18,6 +18,8 @@ order: 1
 
 [富来小厨](https://www.facebook.com/sangsfood/?locale=zh_CN): 4.5/5. Japanese Toufu and Chiken hot pot is great, needs to book in advance.
 
+[Fuwa Fuwa](https://www.fuwafuwapancakes.com/): 4.7/5. Delicious pancake, not that sweet, definitely worth to try.
+
 [好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.5/5. Ok taste, price not expensive with discount in cash.
 
 [Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, declicious food, my favorite Thai food in Toronto.
@@ -25,6 +27,8 @@ order: 1
 [Lee](https://leerestaurant.com/): 4.3/5. Average price 100+, Singapore style slaw worth to try, other is also ok, worth to go for one time.
 
 [麻布](https://mabugeneration.com)：4.0/5. Order the out for delivery food, quantity is small compared to previous one.
+
+[Mezcalero](https://mezcalerotoronto.com/): 4.8/5. Good Sapnishn food, cheap price, worth to try their seafood paella.
 
 [Miller Tavern](https://themillertavern.com/): 4.4/5. Ok food, amount is not small, price not cheap, if you reach around lake, could have a try.
 
@@ -49,3 +53,5 @@ order: 1
 [一家川菜馆](https://www.yijiachuancaiguan.com/): 4.2/5. close to UTSG, good price, ok food, cash price including tax 80 dollar is enough for at least three people have meal.
 
 [有米酸奶](https://www.yomiesriceyogurt.com/): 4.7/5. Order Mango Pomelo Sago Yogurt, I like it!
+
+[真东北饺子馆](https://kb.51.ca/item/18)：3.7/5. Dumpling is fine, other dishes are bad.
