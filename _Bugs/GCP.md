@@ -16,7 +16,7 @@ encountered too many errors, giving up. Rows: 1; errors: 1.
 Please look into the errors[] collection for more details.'
 ``` 
 
-2. GCP BigQuery schema not equal
+2. GCP BigQuery query not equal
 ```
 select ... from ... where id <> 1
 ```
