@@ -18,13 +18,15 @@ order: 1
 
 [富来小厨](https://www.facebook.com/sangsfood/?locale=zh_CN): 4.5/5. Japanese Toufu and Chiken hot pot is great, needs to book in advance.
 
-[Fuwa Fuwa](https://www.fuwafuwapancakes.com/): 4.7/5. Delicious pancake, not that sweet, definitely worth to try.
+[Fuwa Fuwa](https://www.fuwafuwapancakes.com/): 4.7/5. Delicious pancake, not that sweet, definitely worth to try. Drink just so so.
 
-[好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.5/5. Ok taste, price not expensive with discount in cash.
+[狗不理](http://goubuli.ca/): 3.9/5. Food are fine price no that cheap. 
 
-[街边大排档](https://www.ubereats.com/ca/store/%E8%A1%97%E8%BE%B9%E5%A4%A7%E6%8E%92%E6%A1%A3-hans-stir-fry-bbq/86Y2jMizWUG7pWeGe9R3Cw): 4.3/5. Price is ok and quantity is large. Can have a try if have any discounta activity.
+[好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.3/5. Ok taste, price not expensive with discount in cash.
 
-[Koha Pacific Kitchen](https://kohakitchen.com/): 4.8/5. Perfect place for fast food if you work onsite around union station, cheap price and large quantity of food, worth to try.
+[街边大排档](https://www.ubereats.com/ca/store/%E8%A1%97%E8%BE%B9%E5%A4%A7%E6%8E%92%E6%A1%A3-hans-stir-fry-bbq/86Y2jMizWUG7pWeGe9R3Cw): 4.1/5. Price is ok and quantity is large. Can have a try if have any discounta activity.
+
+[Koha Pacific Kitchen](https://kohakitchen.com/): 4.7/5. Perfect place for fast food if you work onsite around union station, cheap price and large quantity of food, worth to try.
 
 [Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, declicious food, my favorite Thai food in Toronto.
 
@@ -32,7 +34,7 @@ order: 1
 
 [麻布](https://mabugeneration.com)：4.0/5. Order the out for delivery food, quantity is small compared to previous one.
 
-[Mezcalero](https://mezcalerotoronto.com/): 4.7/5. Good Sapnishn food, cheap price, worth to try their seafood paella.
+[Mezcalero](https://mezcalerotoronto.com/): 4.6/5. Good Sapnishn food, cheap price, worth to try their seafood paella.
 
 [Miller Tavern](https://themillertavern.com/): 4.4/5. Ok food, amount is not small, price not cheap, if you reach around lake, could have a try.
 
