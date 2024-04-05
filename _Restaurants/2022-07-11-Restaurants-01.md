@@ -34,7 +34,7 @@ order: 1
 
 [麻布](https://mabugeneration.com)：4.0/5. Order the out for delivery food, quantity is small compared to previous one.
 
-[Mezcalero](https://mezcalerotoronto.com/): 4.6/5. Good Sapnishn food, cheap price, worth to try their seafood paella.
+[Mezcalero](https://mezcalerotoronto.com/): 4.6/5. Good Spanish food, cheap price, worth to try their seafood paella.
 
 [Miller Tavern](https://themillertavern.com/): 4.4/5. Ok food, amount is not small, price not cheap, if you reach around lake, could have a try.
 
