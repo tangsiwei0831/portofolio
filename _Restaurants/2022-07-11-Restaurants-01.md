@@ -26,6 +26,8 @@ order: 1
 
 [街边大排档](https://www.ubereats.com/ca/store/%E8%A1%97%E8%BE%B9%E5%A4%A7%E6%8E%92%E6%A1%A3-hans-stir-fry-bbq/86Y2jMizWUG7pWeGe9R3Cw): 4.1/5. Price is ok and quantity is large. Can have a try if have any discount activity.
 
+[kaka](https://kakaallyoucaneat.ca/): 4.5/5. Japanese AYCE, price is ok, worth to go if you are hungury!
+
 [Koha Pacific Kitchen](https://kohakitchen.com/): 4.7/5. Perfect place for fast food if you work onsite around union station, cheap price and large quantity of food, worth to try.
 
 [Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, declicious food, my favorite Thai food in Toronto.

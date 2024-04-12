@@ -5,6 +5,7 @@ permalink: /work/
 ---
 I am a CS graduate from UofT. Now working in TELUS rotation program as GTLP.
 
+<!-- 
 ## TELUS
 
 # GTLP-Enterprise Data Engineering                           
@@ -12,4 +13,4 @@ I am a CS graduate from UofT. Now working in TELUS rotation program as GTLP.
 
 2. Develop airflow, dataflow and 122 YAMLs for ETL process, from salesforce to GCP BigQuery then to Oracle database, to reduce the informatica license cost.
 
-3. Create  query, API and API consumer documentation for BCP project
+3. Create  query, API and API consumer documentation for BCP project -->

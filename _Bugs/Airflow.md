@@ -154,3 +154,5 @@ salesforce_records =  (
 total_rows = (p | ...)
 ```
 
+2. If the DAG schedule is set to be 9:30 am UTC time once every day, then if I switch on the DAG at 12:30 pm, it will immediately starts since it thinks it is late for start.
+
