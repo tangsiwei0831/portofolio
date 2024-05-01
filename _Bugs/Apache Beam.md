@@ -8,8 +8,8 @@ order: 1
 # Structure
 Airflow template pipeline consists of three files
 * Airflow file for creating DAGS to schedule tasks
-* YAML file for as he input configuration for airflow job, including table schema, DAG name etc
-* Dataflow file which is called by airflow file to create tasks
+* YAML file for as the input configuration for airflow job, including table schema, DAG name etc
+* Dataflow file which is called by airflow file to implement tasks
 
 # Cmommon Knowledge
 data pipeline has two types, stream and batch. Steaming data pipeline is real time and bacth data pipeline is scheduled. Therefore, to update DAG, streaming pipeline needs to be switched off but batch does not need.
@@ -17,54 +17,37 @@ data pipeline has two types, stream and batch. Steaming data pipeline is real ti
 # Condition
 The dataflow file aims for reading data from source database and then pass data and schema to Google Cloud BigQuery. Since there are many tables in source database, in order to make one dataflow job to matches with all tables, we need to make all variables dynamic instead of hardcoding. So parameter needs to pass from airflow job to dataflow job in order to make every variable dynamic. This question is about the pass of schema, which is JSON format.
 
-# Difficulty & solution
-In order to pass the schema JSON object, we need to pass the schema in `DataflowTemplatedJobStartOperator`. 
-The schema needs to be passed as JSON string since the operator does not allow any other types to be passed
+# Difficulty & Solution
+In dataflow job, the parameters can be used in several ways. Noted that parameters type is RuntimeValueProvider, 
+so we cannot directly use it in pipeline construction.
 
-```
-pasword="abc"
-schema = {...}
+    ```
+    # Create subclass of PipelineOptions and then add aruguments
+    class WorkOptions(PipelineOptions):
+        @classmethod
+        def _add_argparse_args(cls, parser):
+            parser.add_value_provider_argument(
+                "--password",
+                type=str,
+                help="password"
+            )
 
-tid=DataflowTemplatedJobStartOperator(
-    task_id = ...,
-    ...
-    parameters={
-        "password": password,
-        "schema": json.dumps(schema)
-    }
-)
-```
-
-In dataflow job, the parameters can be used in several ways. Noted that parameters type is          
-            RuntimeValueProvider, so we cannot directly use it in pipeline construction.
-
-```
-# Create subclass of PipelineOptions and then add aruguments
-class WorkOptions(PipelineOptions):
-    @classmethod
-    def _add_argparse_args(cls, parser):
-        parser.add_value_provider_argument(
-            "--password",
-            type=str,
-            help="password"
-        )
-
-        parser.add_value_provider_argument(
-            "--schema",
-            type=str,
-            help="schema"
-        )
-    
-# in the run method for pipeline, retrive parameters
-def run():
-    pipeline_options = PipelineOptions().view_as(WorkOptions)
-    pipeline = beam.pipeline(options=pipeline_options)
-    with beam.pipeline(options=pipeline_options) as p:
-        records = (
-            p | "create seed" >> beam.create([None])
-              | "Read data" beam.Pardo(ReadData(pipeline_options.password))
-        )
-```
+            parser.add_value_provider_argument(
+                "--schema",
+                type=str,
+                help="schema"
+            )
+        
+    # in the run method for pipeline, retrive parameters
+    def run():
+        pipeline_options = PipelineOptions().view_as(WorkOptions)
+        pipeline = beam.pipeline(options=pipeline_options)
+        with beam.pipeline(options=pipeline_options) as p:
+            records = (
+                p | "create seed" >> beam.create([None])
+                | "Read data" beam.Pardo(ReadData(pipeline_options.password))
+            )
+    ```
 The parameter password can be retrieved in ParDo transformation by using get method, note that you cannot use get method in init method, will result in error **RuntimeValueProvider: get() not called from a runtime context**
 ```
 class ReadData:
@@ -192,5 +175,4 @@ total_rows task can be parallel with filter_value task.
     total_rows = (p | ...)
     ```
 
-2. If the DAG schedule is set to be 9:30 am UTC time once every day, then if I switch on the DAG at 12:30 pm, it will immediately starts since it thinks it is late for start.
 
