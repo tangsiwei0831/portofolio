@@ -12,6 +12,8 @@ order: 1
 
 [Contrada](https://www.contradarestaurant.com/): 4.7/5. Delicious food with special taste, only problem is the amount, a little less.
 
+[大个子砂锅王](https://www.fantuanorder.com/local-life/zh-CN/merchant-reviews/store/pot-licious-stew--3ed9a1e4e9cdb95f86670b6594a75d96-CA): 4.8/5. Good food with cheap price, I like the hot pot. 
+
 [DZO VIET EATERY](https://www.dzovieteatery.com/): 4.4/5. Good Vietnam food, too much oil on the food, price is good too.
 
 [Egg Club](https://eggclub.ca/): 4.5/5. A decent sandiwich, socre can be higher if price lower.
@@ -24,9 +26,13 @@ order: 1
 
 [好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.3/5. Ok taste, price not expensive with discount in cash.
 
+[IL FORNELLO](https://ilfornello.com/): 4.0/5. Ok Itlalian food, price is a little high, record for my meet with previous manager and team members.
+
 [街边大排档](https://www.ubereats.com/ca/store/%E8%A1%97%E8%BE%B9%E5%A4%A7%E6%8E%92%E6%A1%A3-hans-stir-fry-bbq/86Y2jMizWUG7pWeGe9R3Cw): 4.1/5. Price is ok and quantity is large. Can have a try if have any discount activity.
 
-[kaka](https://kakaallyoucaneat.ca/): 4.5/5. Japanese AYCE, price is ok, worth to go if you are hungury!
+[KaKa](https://kakaallyoucaneat.ca/): 4.5/5. Japanese AYCE, price is ok, worth to go if you are hungury!
+
+[Kinton Ramen](https://www.kintonramen.com/): 4.9/5. I like the spicy garlic pork noodle, the soup is good with so much garlic!
 
 [Koha Pacific Kitchen](https://kohakitchen.com/): 4.7/5. Perfect place for fast food if you work onsite around union station, cheap price and large quantity of food, worth to try.
 
@@ -45,6 +51,8 @@ order: 1
 [Mother](https://motherdrinks.co/): 4.9/5. Good price, good drink, always worth to go, top recommendation is their fries!
 
 [Muay Thai Bar & Restaurant](https://www.yelp.ca/biz/muay-thai-restaurant-and-bar-toronto): 4.8/5. Good price and food, delicious meal, drink is also great, service excellent!
+
+[Myungdong Noodle Shabu Shabu](https://www.mdkalguksu.com/): 4.4/5. Pan fried dumplings is good, ok Korea food, can try if you walk pass by, it is interesting that it locates in Indian town.
 
 [粘一筷子](https://info.yorkbbs.ca/detail/sichuan/a137d8ad-78c3-4975-a5a1-35e58dfb3c63): 4.8/5. Spicy SiChuan food, large quantity, can only walk in, so need to wait.
 

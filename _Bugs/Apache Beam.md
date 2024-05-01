@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "1. Airflow templating pipeline"
+title:  "1. Apache Beam"
 category: tech
-permalink: /tech/bugs/airflow
+permalink: /tech/bugs/beam
 order: 1
 ---
 # Structure
@@ -11,6 +11,8 @@ Airflow template pipeline consists of three files
 * YAML file for as he input configuration for airflow job, including table schema, DAG name etc
 * Dataflow file which is called by airflow file to create tasks
 
+# Cmommon Knowledge
+data pipeline has two types, stream and batch. Steaming data pipeline is real time and bacth data pipeline is scheduled. Therefore, to update DAG, streaming pipeline needs to be switched off but batch does not need.
 
 # Condition
 The dataflow file aims for reading data from source database and then pass data and schema to Google Cloud BigQuery. Since there are many tables in source database, in order to make one dataflow job to matches with all tables, we need to make all variables dynamic instead of hardcoding. So parameter needs to pass from airflow job to dataflow job in order to make every variable dynamic. This question is about the pass of schema, which is JSON format.
@@ -113,12 +115,49 @@ def run():
           | beam.ParDo(..., filter_value=beam.pvalue.Assingleton(filter_value))
     )
 ```
+Alternative solution to use `ReadFromBigQuery`, we can just run a query by simply connect to GCP project
+```
+from google.cloud import bigquery
+class ReadFromBQ(beam.DoFn):
+    def __init__():
+        ...
+    def process(self, element):
+        bq_client = bigquery.client(project=...)
+        try:
+            query_job = bq_client.query(...)
+            results = query_job.result()
+            rows = list(result)
+            yield rows[0]["...]
+        except Exception as e:
+            logging.info(f"xxx {e}")
+def run():
+    pipeline_options = PipelineOptions().view_as(WorkOptions)
+    pipeline = beam.pipeline(options=pipeline_options)
+    with beam.pipeline(options=pipeline_options) as p:
+        filter_value = (
+            p | "dummy create" >> beam.Create([None])
+              | "get filter value" >> beam.ParDo(
+                ReadFromBQ(filter_query=...,project=...)
+              )
+        )
+```
 <hr style="border:2px solid gray">
 Based on the background, the pipieline runs every six hours, therefore we should only load the delta data, which is the newly generated data insead of historical data. The logic is to use filer_value mentioned before to compare with the source data timestamp to filter out new data. Consider an edge case, if the filtered data is empty Pcollection object, as the assumption, the pipeline should truncae the bigquery table and not load data.
 
 For function `writeToBigQuery`, if input data is empty, the bigQuery table will not be truncated, the old data wil stay in table and nothing changes, therefore, an alternative way needs to be taken in order to truncate table in this edge case.
 
 ```
+from google.cloud import bigquery
+class ConditionallyTruncate(beam.DoFn):
+    def __init__():
+        ...
+    def process(self, element, total_rows):
+        if total_rows == 0:
+            client = bigquery.Client(project=...)
+            query = f"truncate table {xxx.xxx.xxx}"
+            client.query(query)
+            logging.info(...)
+
 # read all the records from source side, the filter_value will be compared with each record in the data, if data is all old,
 # salesforce_records will be in format as {}, {}, ... inside curly bracket
 salesforce_records = (...)   
@@ -131,28 +170,27 @@ total_rows = (salesforce_records | beam.filter(lambda x: x != {})
 # therefore we can use total row number as condition, if it is 0, truncate, otherwise, not truncate table
 should_truncate = (
     p | beam.create([None])
-      | beam.ParDo(..., beam.pvalue.Assingleton(total_rows))
+      | beam.ParDo(ConditionallyTruncate(...), beam.pvalue.Assingleton(total_rows))
 )
 ```
-
 
 # Note
 1. all the task in dataflow job may not in order, it may be parallel, the order is determined by dependency.
 In the below code, salesforce_records task must happen after filter_value task, since it depends on the Pvalue. 
 total_rows task can be parallel with filter_value task.
 
-```
-filter_value = (
-    p | beam.io.ReadFromBigQuery(...)
-)
+    ```
+    filter_value = (
+        p | beam.io.ReadFromBigQuery(...)
+    )
 
-salesforce_records =  (
-        p | beam.Create([None])
-          | beam.ParDo(..., filter_value=beam.pvalue.Assingleton(filter_value))
-    ) 
+    salesforce_records =  (
+            p | beam.Create([None])
+            | beam.ParDo(..., filter_value=beam.pvalue.Assingleton(filter_value))
+        ) 
 
-total_rows = (p | ...)
-```
+    total_rows = (p | ...)
+    ```
 
 2. If the DAG schedule is set to be 9:30 am UTC time once every day, then if I switch on the DAG at 12:30 pm, it will immediately starts since it thinks it is late for start.
 

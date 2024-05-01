@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2. Data cleaning"
+title:  "2. Excel"
 category: tech
 permalink: /tech/bugs/excel
 order: 2
