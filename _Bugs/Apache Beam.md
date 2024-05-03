@@ -11,9 +11,6 @@ Airflow template pipeline consists of three files
 * YAML file for as the input configuration for airflow job, including table schema, DAG name etc
 * Dataflow file which is called by airflow file to implement tasks
 
-# Cmommon Knowledge
-data pipeline has two types, stream and batch. Steaming data pipeline is real time and bacth data pipeline is scheduled. Therefore, to update DAG, streaming pipeline needs to be switched off but batch does not need.
-
 # Condition
 The dataflow file aims for reading data from source database and then pass data and schema to Google Cloud BigQuery. Since there are many tables in source database, in order to make one dataflow job to matches with all tables, we need to make all variables dynamic instead of hardcoding. So parameter needs to pass from airflow job to dataflow job in order to make every variable dynamic. This question is about the pass of schema, which is JSON format.
 
