@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="home"></div>
+  <ul style="list-style-type: circle"> 
+      {% assign bugs = site.Bugs | sort:"order" %}
+      {% for entry in bugs %}
+          <!-- <li> -->
+          <h3>
+              <a href="{{site.baseurl}}{{entry.url}}">
+              {{ entry.title }}
+              </a>
+          </h3>
+          {% if entry.highlights %}
+          ({{ entry.highlights }})
+          {% endif %}
+          <!-- </li> -->
+      {% endfor %}
+  </ul>

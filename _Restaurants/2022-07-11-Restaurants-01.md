@@ -14,6 +14,8 @@ order: 1
 
 [大个子砂锅王](https://www.fantuanorder.com/local-life/zh-CN/merchant-reviews/store/pot-licious-stew--3ed9a1e4e9cdb95f86670b6594a75d96-CA): 4.8/5. Good food with cheap price, I like the hot pot. 
 
+[Deer Garden](https://www.deergarden.net/): 4.6/5. Noodle is prety good and large quantity, Hainan Chicken is also delicious!
+
 [DZO VIET EATERY](https://www.dzovieteatery.com/): 4.4/5. Good Vietnam food, too much oil on the food, price is good too.
 
 [Egg Club](https://eggclub.ca/): 4.5/5. A decent sandiwich, socre can be higher if price lower.
@@ -26,13 +28,17 @@ order: 1
 
 [好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.3/5. Ok taste, price not expensive with discount in cash.
 
+[Hanyang Jokbal](https://www.instagram.com/p/CalWAVCrY69/?igshid=ZDFmNTE4Nzc%3D): 4.7/5. Nice pork hock, it has various taste, but I think original is the best.
+
+[Ian Cakery](https://www.iancakery.ca/): 4.5/5. Honestly I just take a little dessert, but it is good for their cream puff.
+
 [IL FORNELLO](https://ilfornello.com/): 4.0/5. Ok Itlalian food, price is a little high, record for my meet with previous manager and team members.
 
 [街边大排档](https://www.ubereats.com/ca/store/%E8%A1%97%E8%BE%B9%E5%A4%A7%E6%8E%92%E6%A1%A3-hans-stir-fry-bbq/86Y2jMizWUG7pWeGe9R3Cw): 4.1/5. Price is ok and quantity is large. Can have a try if have any discount activity.
 
 [KaKa](https://kakaallyoucaneat.ca/): 4.5/5. Japanese AYCE, price is ok, worth to go if you are hungury!
 
-[Kinton Ramen](https://www.kintonramen.com/): 4.9/5. I like the spicy garlic pork noodle, the soup is good with so much garlic!
+[Kinton Ramen](https://www.kintonramen.com/): 4.8/5. I like the spicy garlic pork noodle, the soup is good with so much garlic!
 
 [Koha Pacific Kitchen](https://kohakitchen.com/): 4.7/5. Perfect place for fast food if you work onsite around union station, cheap price and large quantity of food, worth to try.
 
@@ -43,6 +49,8 @@ order: 1
 [刘一手火锅](https://www.liuyishouna.com/): 4.2/5. Just so so for a hot pot, you can have a try at this restaurant, at least it is not bad.
 
 [麻布](https://mabugeneration.com)：4.0/5. Order the out for delivery food, quantity is small compared to previous one.
+
+[满江红(Red Lotus Restaurant)](https://www.ubereats.com/ca/store/red-lotus-restaurant-%E6%BB%A1%E6%B1%9F%E7%BA%A2/cOK3ioIMTX2YFqn6UvlnQQ): 4.5/5. Cooking is ok, not small quantity, can take a try when ou walk pass by.
 
 [Mezcalero](https://mezcalerotoronto.com/): 4.6/5. Good Spanish food, cheap price, worth to try their seafood paella.
 
@@ -69,6 +77,8 @@ order: 1
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 4.1/5. Good price and location, close to union station, worth to go after work with colleagues.
 
 [西域食府](https://magicaltasteofchina.com/dt476): 4.3/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
+
+[Yang's Braised Chicken Rice(Mississauga)杨铭宇黄焖鸡米饭](https://order.mrsdigi.com/485316193107080/10e622c2-67f2-50ca-aaad-148f1916abe9#/splash-screen): 4.4/5. Good amount, ok taste, beef noodle is good, not spicy at all.
 
 [一家川菜馆](https://www.yijiachuancaiguan.com/): 4.2/5. close to UTSG, good price, ok food, cash price including tax 80 dollar is enough for at least three people have meal.
 

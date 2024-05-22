@@ -16,6 +16,19 @@ order: 3
     time_sr = "2024-04-04T16:03:00+00:00"
     ```
 
+4. GCP BigQuery query not equal
+    ```
+    select ... from ... where id <> 1
+    ```
+5. use bq command line in shell script to query the data, if there is multi queries, please use EOQ instead of triple quotes.
+   Triple quotes is for muti-line queries, but not for multi queries.
+
+    ```
+    bq query --use_legacy_sql=false <<EOQ
+    ...
+    EOQ
+    ```
+
 # Errors
 1. This error means the loaded data does not match the schema, the root cause would be the type mismatch. 
 In order to match the data with the BigQuery table schema, the column names should be the same, not case sensitive. 
@@ -27,17 +40,14 @@ Usually for debugging, the way I use is binary search, search half to check if e
     Please look into the errors[] collection for more details.'
     ``` 
 
-# Note
-1. GCP BigQuery query not equal
+# Logs check
+To check dataflow customized log, either in dataflow job, or we can check through Logging resource.
+1. Go to Log Analyics 
+2. Set the time back to avoid missing records
+3. input query, the customized logging statement will be in json_payload column which contains instruction as a key.
     ```
-    select ... from ... where id <> 1
-    ```
-2. use bq command line in shell script to query the data, if there is multi queries, please use EOQ instead of triple quotes.
-   Triple quotes is for muti-line queries, but not for multi queries.
-
-    ```
-    bq query --use_legacy_sql=false <<EOQ
-    ...
-    EOQ
+    select text_payload, json_payload from `...` where string(resource.label_name) = "..."
+    and json_payload is not null and JSON_EXTRAC(json_payload, '$.instruction') is not null 
+    order by timestamp desc
     ```
 
