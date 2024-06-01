@@ -8,6 +8,8 @@ order: 1
 ---
 [Byblos](https://byblosdowntown.com/): 4.9/5. Eastern Mediterranean cuisine, always worth to go to, lamb ribs top recommendation.
 
+[Cheng du Street food 苍蝇馆子](https://www.chengdustreetfood.ca/): 4.5/5. Sichuan food, the quantity is not that big as it is in downtown. Can have a try if you want to taste Sechuan food in downtown Toronto.
+
 [Congee Queen](https://www.congeequeen.com/): 4.3/5. Ok food, various types of dishes, can have a try if walk by Eaton centre.
 
 [Contrada](https://www.contradarestaurant.com/): 4.7/5. Delicious food with special taste, only problem is the amount, a little less.
@@ -30,6 +32,8 @@ order: 1
 
 [Hanyang Jokbal](https://www.instagram.com/p/CalWAVCrY69/?igshid=ZDFmNTE4Nzc%3D): 4.7/5. Nice pork hock, it has various taste, but I think original is the best.
 
+[Happy Valley Village 山里屯](https://www.instagram.com/happyvalleyvillage/?igshid=NDk2dHVtZGk2d2dq): 4.6/5. Nice to have a try if there are many people.
+
 [Ian Cakery](https://www.iancakery.ca/): 4.5/5. Honestly I just take a little dessert, but it is good for their cream puff.
 
 [IL FORNELLO](https://ilfornello.com/): 4.0/5. Ok Itlalian food, price is a little high, record for my meet with previous manager and team members.
@@ -39,6 +43,8 @@ order: 1
 [KaKa](https://kakaallyoucaneat.ca/): 4.5/5. Japanese AYCE, price is ok, worth to go if you are hungury!
 
 [Kinton Ramen](https://www.kintonramen.com/): 4.8/5. I like the spicy garlic pork noodle, the soup is good with so much garlic!
+
+[King taps](https://kingtaps.com/): 4.6/5. Fast food and bar, I order the chicken sandwitch and truffle fries, prety good, quantity is not small, good place to chat with colleagues.
 
 [Koha Pacific Kitchen](https://kohakitchen.com/): 4.7/5. Perfect place for fast food if you work onsite around union station, cheap price and large quantity of food, worth to try.
 
@@ -77,6 +83,8 @@ order: 1
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 4.1/5. Good price and location, close to union station, worth to go after work with colleagues.
 
 [西域食府](https://magicaltasteofchina.com/dt476): 4.3/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
+
+[新澳门](https://ruademacau.com/): 4.4/5. Hainan Chicken is prety good and cheap. Stir-fried Pork with Chili Peppers is ok, but a little bit expensive, milk tea is good.
 
 [Yang's Braised Chicken Rice(Mississauga)杨铭宇黄焖鸡米饭](https://order.mrsdigi.com/485316193107080/10e622c2-67f2-50ca-aaad-148f1916abe9#/splash-screen): 4.4/5. Good amount, ok taste, beef noodle is good, not spicy at all.
 

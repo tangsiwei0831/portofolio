@@ -200,4 +200,3 @@ Two points need to be notified.
 
 # Salesforce connection
 In order to query to get the extremely large amount of delta data, it would be better to use `query_all_iter` instead of `query_all` since it allows you to lazily process each element separately, check [documentation](https://github.com/simple-salesforce/simple-salesforce) for detail.
-

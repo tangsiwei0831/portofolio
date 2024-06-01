@@ -4,10 +4,10 @@
 
 layout: home
 ---
-This is a website about my exploration. Keep my records for future usage. Feel free to explore!!!
+This is a website about me. Keep my records for future usage. Feel free to explore!!!
 
 
 # Introduction
 
-Check for different sections, life section includes my restaurant list, the food I make, movies and poetry.
-Tech part contains my projects, leetcode solutions and bugs I encountered in work.
+Check for different sections, life section includes my restaurant list, movies.
+Tech part contains my projects, leetcode and  Ibugs encountered in work.

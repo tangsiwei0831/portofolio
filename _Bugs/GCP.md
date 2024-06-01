@@ -39,6 +39,7 @@ Usually for debugging, the way I use is binary search, search half to check if e
     encountered too many errors, giving up. Rows: 1; errors: 1. 
     Please look into the errors[] collection for more details.'
     ``` 
+To reproduce this issue in nonprod environment, remember to make sure the filter condition in the query satys the same so that the error data will be extracted to reproduce the error.
 
 # Logs check
 To check dataflow customized log, either in dataflow job, or we can check through Logging resource.
@@ -51,3 +52,5 @@ To check dataflow customized log, either in dataflow job, or we can check throug
     order by timestamp desc
     ```
 
+# BigQuery
+In BigQuery, date type represents string that contains only date information such as "2024-06-01", while timestamp type can either be a string like "2024-06-01T17:00:00+00.00" or python datetime object. these two cannot be mixed.
