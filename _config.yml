@@ -46,7 +46,11 @@ collections:
     output: true
     permalink: /portfolio/:path/
     sort_by: order
-  Restaurants:
+  Places:
+    output: true
+    permalink: /portfolio/:path/
+    sort_by: order
+  Learn:
     output: true
     permalink: /portfolio/:path/
     sort_by: order

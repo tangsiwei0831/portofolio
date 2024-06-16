@@ -154,6 +154,9 @@ so we cannot directly use it in pipeline construction.
     )
     ```
 
+# miscellaneous bug
+For writetobigquery method, if you would like to write a float like 1.950002 into a numeric type column, it will fail, it seems that it only allow 2 significant digits like 1.95.
+
 # Note
 1. all the task in dataflow job may not in order, it may be parallel, the order is determined by dependency.
 In the below code, salesforce_records task must happen after filter_value task, since it depends on the Pvalue. 
@@ -200,3 +203,5 @@ Two points need to be notified.
 
 # Salesforce connection
 In order to query to get the extremely large amount of delta data, it would be better to use `query_all_iter` instead of `query_all` since it allows you to lazily process each element separately, check [documentation](https://github.com/simple-salesforce/simple-salesforce) for detail.
+
+To extract data from salesforce API, if you want to get the deleted records, rememeber to use Bulk API instead of REST API. However, there is one limitation, bulk API cannot retrieve compound field such as address type column.

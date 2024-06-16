@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Canada Travel"
+title:  "Canada Travel Restaurants"
 date:   2022-05-21 19:41:00
 category: life
 permalink: /life/restaurants/canada-travel

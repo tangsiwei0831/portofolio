@@ -35,9 +35,9 @@ layout: default
 
 </div> -->
 <div class="home"></div>
-<h2> Restaurant </h2>
+<h2> Places </h2>
 <ul style="list-style-type: circle">
-  {% assign restaurants = site.Restaurants | sort:"order" %}
+  {% assign restaurants = site.Places | sort:"order" %}
   {% for entry in restaurants %}
     <li>
       <h3>

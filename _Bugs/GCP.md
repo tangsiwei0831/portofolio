@@ -29,7 +29,7 @@ order: 3
     EOQ
     ```
 
-# Errors
+# Dataflow
 1. This error means the loaded data does not match the schema, the root cause would be the type mismatch. 
 In order to match the data with the BigQuery table schema, the column names should be the same, not case sensitive. 
 Noted that if some fields in schema you do not have in data it is fine, GCP will automatically mark value as None.
@@ -41,7 +41,12 @@ Usually for debugging, the way I use is binary search, search half to check if e
     ``` 
 To reproduce this issue in nonprod environment, remember to make sure the filter condition in the query satys the same so that the error data will be extracted to reproduce the error.
 
-# Logs check
+2. This error showed that the upper limit to update a GCP BigQuery table is 20. If the dataflow job failed due to this, we can set the retry number to rerun dataflow job to avoid error.
+    ```
+    Too many DL statement outstanding against table .... limit is 20.
+    ```
+
+# Logs Explorer
 To check dataflow customized log, either in dataflow job, or we can check through Logging resource.
 1. Go to Log Analyics 
 2. Set the time back to avoid missing records
@@ -50,6 +55,12 @@ To check dataflow customized log, either in dataflow job, or we can check throug
     select text_payload, json_payload from `...` where string(resource.label_name) = "..."
     and json_payload is not null and JSON_EXTRAC(json_payload, '$.instruction') is not null 
     order by timestamp desc
+    ```
+
+# Batch
+Pyhon Oracledb package, the error like that indicates that for one column, data may be missing for some of the records, check [link](https://github.com/oracle/python-oracledb/issues?q=is%3Aissue+dpy-3013).
+    ```
+    DPY-3013 unsupported Python type *** for database type DB_TYPE_VARCHAR
     ```
 
 # BigQuery

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="home"></div>
+  <ul style="list-style-type: circle"> 
+      {% assign learn = site.Learn | sort:"order" %}
+      {% for entry in learn %}
+          <!-- <li> -->
+          <h3>
+              <a href="{{site.baseurl}}{{entry.url}}">
+              {{ entry.title }}
+              </a>
+          </h3>
+          {% if entry.highlights %}
+          ({{ entry.highlights }})
+          {% endif %}
+          <!-- </li> -->
+      {% endfor %}
+  </ul>

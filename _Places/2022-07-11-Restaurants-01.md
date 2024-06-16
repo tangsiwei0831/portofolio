@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toronto"
+title:  "Toronto Restaurants"
 date:   2022-07-11 18:55:17
 category: life
 permalink: /life/restaurants/toronto
@@ -12,17 +12,25 @@ order: 1
 
 [Congee Queen](https://www.congeequeen.com/): 4.3/5. Ok food, various types of dishes, can have a try if walk by Eaton centre.
 
-[Contrada](https://www.contradarestaurant.com/): 4.7/5. Delicious food with special taste, only problem is the amount, a little less.
+[Contrada](https://www.contradarestaurant.com/): 4.7/5. Delicious food with special taste, only problem is the small amount.
 
 [大个子砂锅王](https://www.fantuanorder.com/local-life/zh-CN/merchant-reviews/store/pot-licious-stew--3ed9a1e4e9cdb95f86670b6594a75d96-CA): 4.8/5. Good food with cheap price, I like the hot pot. 
 
+[大鸭梨](https://places.singleplatform.com/dayali/menu?ref=google#menu_2368384): 4.1/5. Just so so, nothing to say. Roasted duck is ok, doubt they reduce the quantity. 
+
 [Deer Garden](https://www.deergarden.net/): 4.6/5. Noodle is prety good and large quantity, Hainan Chicken is also delicious!
+
+[Dong Kee Chinese Restaurant](https://www.yelp.ca/biz/dong-kee-toronto): 4.8/5. Cantonese cuisine, very cheap price, six poeple totally $207, would recommend go again.
 
 [DZO VIET EATERY](https://www.dzovieteatery.com/): 4.4/5. Good Vietnam food, too much oil on the food, price is good too.
 
 [Egg Club](https://eggclub.ca/): 4.5/5. A decent sandiwich, socre can be higher if price lower.
 
+[Egg Static](https://eggstatic.ca/home): 4.5/5. Good brunch food, nice drink, but service a little unprofessional. 
+
 [富来小厨](https://www.facebook.com/sangsfood/?locale=zh_CN): 4.5/5. Japanese toufu and Chiken hot pot is great, needs to book in advance.
+
+[福记全羊馆](https://fujilambhouse.ca/): 4.7/5. Cash discount, good price and food for lamb, worth go again. 
 
 [Fuwa Fuwa](https://www.fuwafuwapancakes.com/): 4.7/5. Delicious pancake, not that sweet, definitely worth to try. Drink just so so.
 
@@ -36,7 +44,7 @@ order: 1
 
 [Ian Cakery](https://www.iancakery.ca/): 4.5/5. Honestly I just take a little dessert, but it is good for their cream puff.
 
-[IL FORNELLO](https://ilfornello.com/): 4.0/5. Ok Itlalian food, price is a little high, record for my meet with previous manager and team members.
+[IL FORNELLO](https://ilfornello.com/): 4.0/5. Ok Italian food, price is a little high, record for my meet with previous manager and team members.
 
 [街边大排档](https://www.ubereats.com/ca/store/%E8%A1%97%E8%BE%B9%E5%A4%A7%E6%8E%92%E6%A1%A3-hans-stir-fry-bbq/86Y2jMizWUG7pWeGe9R3Cw): 4.1/5. Price is ok and quantity is large. Can have a try if have any discount activity.
 
@@ -71,6 +79,8 @@ order: 1
 [粘一筷子](https://info.yorkbbs.ca/detail/sichuan/a137d8ad-78c3-4975-a5a1-35e58dfb3c63): 4.8/5. Spicy SiChuan food, large quantity, can only walk in, so need to wait.
 
 [OEB](https://eatoeb.com/locations/toronto/?gclid=CjwKCAiAk9itBhASEiwA1my_61YsuBPw7S77-js1K5fg0TCPPQ18PB4cSD6sXOLOaIQ28aTUGCfYiBoCp1YQAvD_BwE): 4.5/5. Brunch Restaurant, main dishes are good, glass is tricky, the volume is smaller than what you think.
+
+[Pita Lite Shawarma](https://pitalite.com/): 4.3/5. Chain store, cheap price to take shawarma, I like the chicken bowl, pretty good. 
 
 [Shinta](https://shintabbq.ca/): 4.6/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
