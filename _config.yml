@@ -54,6 +54,10 @@ collections:
     output: true
     permalink: /portfolio/:path/
     sort_by: order
+  Algorithm:
+    output: true
+    permalink: /portfolio/:path/
+    sort_by: order
 
 
 # Exclude from processing.

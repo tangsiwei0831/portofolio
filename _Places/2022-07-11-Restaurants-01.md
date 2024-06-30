@@ -24,9 +24,13 @@ order: 1
 
 [DZO VIET EATERY](https://www.dzovieteatery.com/): 4.4/5. Good Vietnam food, too much oil on the food, price is good too.
 
+[EDNA + VITA](https://ednavita.com/): 4.4/5. Food is nice, the quantity is not that much, service always suurounds you, sometimes a little bit annoying. 
+
 [Egg Club](https://eggclub.ca/): 4.5/5. A decent sandiwich, socre can be higher if price lower.
 
 [Egg Static](https://eggstatic.ca/home): 4.5/5. Good brunch food, nice drink, but service a little unprofessional. 
+
+[Fox on John](https://www.foxonjohn.ca/): 4.7/5. The happy hour menu is so good, I order the spring roll, crispy chicken and truffle fries. Only truffle fries is just fine, a little bit too hard, compared to price, it is woth to go. 
 
 [富来小厨](https://www.facebook.com/sangsfood/?locale=zh_CN): 4.5/5. Japanese toufu and Chiken hot pot is great, needs to book in advance.
 
@@ -35,6 +39,8 @@ order: 1
 [Fuwa Fuwa](https://www.fuwafuwapancakes.com/): 4.7/5. Delicious pancake, not that sweet, definitely worth to try. Drink just so so.
 
 [狗不理](http://goubuli.ca/): 3.9/5. Food are fine price not that cheap. 
+
+[Gyubee 牛兵卫](https://www.gyubeejapanesegrill.com/): 4.2/5. A famous korea BBQ restaurant, ok to go with friends if you want to eat meat. 
 
 [好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.3/5. Ok taste, price not expensive with discount in cash.
 
@@ -82,9 +88,13 @@ order: 1
 
 [Pita Lite Shawarma](https://pitalite.com/): 4.3/5. Chain store, cheap price to take shawarma, I like the chicken bowl, pretty good. 
 
+[RASA](https://www.rasabar.ca/): 4.5/5. Octopus, shrimp and burger are all good. But the price is too high compared to quantity, can go once to take a try. 
+
 [Shinta](https://shintabbq.ca/): 4.6/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
-[Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad...
+[Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad.
+
+[Sun Chinese Cuisine 孙记兰州拉面](https://order.mealkeyway.com/customer/release/index?mid=31313976723430517a6b59556249366e772b646574513d3d#/main): 4.3/5. Ok noodle, worth to go if you live nearby. 
 
 [St Lawrence Market](http://www.stlawrencemarket.com/): 4.8/5. I like the crispy pork belly, calamari and lobster sandwitch over there, furits and meats are fresh, good place for shopping and visit.
 
@@ -94,7 +104,11 @@ order: 1
 
 [西域食府](https://magicaltasteofchina.com/dt476): 4.3/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
 
+[xiangzi hotpot宽窄巷子](https://xiangzihotpot.com/): 4.1/5. Not too many types of food, not good service, pot-stewed meat and vegetables are ok.
+
 [新澳门](https://ruademacau.com/): 4.4/5. Hainan Chicken is prety good and cheap. Stir-fried Pork with Chili Peppers is ok, but a little bit expensive, milk tea is good.
+
+[杨三孃跷脚牛肉(Bayview Hill)Young Sanniang Beef Pot](https://www.ubereats.com/ca/store/young-sanniang-beef-potbayview-hill%E6%9D%A8%E4%B8%89%E5%AD%83%E8%B7%B7%E8%84%9A%E7%89%9B%E8%82%89/QYuNRLa0Uh2KAoORA1Tvsg): 4.8/5. Pretty good tofu and beef, I like the vegetables and rice there!
 
 [Yang's Braised Chicken Rice(Mississauga)杨铭宇黄焖鸡米饭](https://order.mrsdigi.com/485316193107080/10e622c2-67f2-50ca-aaad-148f1916abe9#/splash-screen): 4.4/5. Good amount, ok taste, beef noodle is good, not spicy at all.
 
@@ -103,3 +117,6 @@ order: 1
 [有米酸奶](https://www.yomiesriceyogurt.com/): 4.6/5. Order Mango Pomelo Sago Yogurt, I like it!
 
 [真东北饺子馆](https://kb.51.ca/item/18)：3.7/5. Dumpling is fine, other dishes are bad.
+
+[真牛中式烤肉 Kung Fu Beef Chinese BBQ](https://www.yelp.ca/biz/kung-fu-beef-chinese-bbq-%E7%9C%9F%E7%89%9B%E4%B8%AD%E5%BC%8F%E7%83%A4%E8%82%89-toronto): 4.3/5. Food is ok, lots of types to choose, worth to have a try. 
+
