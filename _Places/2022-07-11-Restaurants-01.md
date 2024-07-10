@@ -90,6 +90,8 @@ order: 1
 
 [RASA](https://www.rasabar.ca/): 4.5/5. Octopus, shrimp and burger are all good. But the price is too high compared to quantity, can go once to take a try. 
 
+[Ramen X Remix](https://ramenxremix.com/): 4.4/5. Pretty special ramen, but the price is a little high compared to other ramen.
+
 [Shinta](https://shintabbq.ca/): 4.6/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
 [Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad.
@@ -103,6 +105,8 @@ order: 1
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 4.1/5. Good price and location, close to union station, worth to go after work with colleagues.
 
 [西域食府](https://magicaltasteofchina.com/dt476): 4.3/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
+
+[先启半步颠](http://www.banbudian.com/): 4.5/5. Pre-made food, but the price is cheap, also they have cash discount. Can go if you have no other choice. 
 
 [xiangzi hotpot宽窄巷子](https://xiangzihotpot.com/): 4.1/5. Not too many types of food, not good service, pot-stewed meat and vegetables are ok.
 
