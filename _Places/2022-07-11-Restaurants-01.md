@@ -38,6 +38,8 @@ order: 1
 
 [Fuwa Fuwa](https://www.fuwafuwapancakes.com/): 4.7/5. Delicious pancake, not that sweet, definitely worth to try. Drink just so so.
 
+[付小姐在成都 Miss Fu In Chengdu](https://www.missfuinchengdu.ca/): 4.5/5. It is good to try instant boiled spicy hot pot. 
+
 [狗不理](http://goubuli.ca/): 3.9/5. Food are fine price not that cheap. 
 
 [Gyubee 牛兵卫](https://www.gyubeejapanesegrill.com/): 4.2/5. A famous korea BBQ restaurant, ok to go with friends if you want to eat meat. 
@@ -53,6 +55,8 @@ order: 1
 [IL FORNELLO](https://ilfornello.com/): 4.0/5. Ok Italian food, price is a little high, record for my meet with previous manager and team members.
 
 [街边大排档](https://www.ubereats.com/ca/store/%E8%A1%97%E8%BE%B9%E5%A4%A7%E6%8E%92%E6%A1%A3-hans-stir-fry-bbq/86Y2jMizWUG7pWeGe9R3Cw): 4.1/5. Price is ok and quantity is large. Can have a try if have any discount activity.
+
+[街边煎饼铺 Corner Crepe Co](https://www.yelp.ca/biz/corner-crepe-toronto): 4.9/5. It is near Univeristy of Toronto, worth to buy if you are in school, very cheap and they also provide you with free soy milk!
 
 [KaKa](https://kakaallyoucaneat.ca/): 4.5/5. Japanese AYCE, price is ok, worth to go if you are hungury!
 
@@ -95,6 +99,8 @@ order: 1
 [Shinta](https://shintabbq.ca/): 4.6/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
 [Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad.
+
+[松亭寿喜烧 Matsutei Sukiyaki](https://www.instagram.com/matsuteisukiyaki/): 4.4/5. Ok food, if you live in downtown and cannot go to Daimaru, this might be the choice.
 
 [Sun Chinese Cuisine 孙记兰州拉面](https://order.mealkeyway.com/customer/release/index?mid=31313976723430517a6b59556249366e772b646574513d3d#/main): 4.3/5. Ok noodle, worth to go if you live nearby. 
 
