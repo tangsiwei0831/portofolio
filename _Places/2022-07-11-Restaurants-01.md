@@ -14,13 +14,15 @@ order: 1
 
 [Contrada](https://www.contradarestaurant.com/): 4.7/5. Delicious food with special taste, only problem is the small amount.
 
-[大个子砂锅王](https://www.fantuanorder.com/local-life/zh-CN/merchant-reviews/store/pot-licious-stew--3ed9a1e4e9cdb95f86670b6594a75d96-CA): 4.8/5. Good food with cheap price, I like the hot pot. 
+[大个子砂锅王](https://www.fantuanorder.com/local-life/zh-CN/merchant-reviews/store/pot-licious-stew--3ed9a1e4e9cdb95f86670b6594a75d96-CA): 4.8/5. Good food with cheap price, I like hot pot. 
 
 [大鸭梨](https://places.singleplatform.com/dayali/menu?ref=google#menu_2368384): 4.1/5. Just so so, nothing to say. Roasted duck is ok, doubt they reduce the quantity. 
 
 [Deer Garden](https://www.deergarden.net/): 4.6/5. Noodle is prety good and large quantity, Hainan Chicken is also delicious!
 
 [Dong Kee Chinese Restaurant](https://www.yelp.ca/biz/dong-kee-toronto): 4.8/5. Cantonese cuisine, very cheap price, six poeple totally $207, would recommend go again.
+
+[斗地主炸串 Lucky Ace BBQ](https://www.ubereats.com/ca/store/lucky-ace-bbq-%E6%96%97%E5%9C%B0%E4%B8%BB%E7%82%B8%E4%B8%B2/R-UNJVRrXR2k8t5GVzJW1A): 4.3/5. Chicken stripe is good, but their source is sweet and not spicy, can imprive more if they can change the taste of the souce. Can take a try if you walk by to the supermarket. They have cash discount.
 
 [DZO VIET EATERY](https://www.dzovieteatery.com/): 4.4/5. Good Vietnam food, too much oil on the food, price is good too.
 
@@ -30,7 +32,7 @@ order: 1
 
 [Egg Static](https://eggstatic.ca/home): 4.5/5. Good brunch food, nice drink, but service a little unprofessional. 
 
-[Fox on John](https://www.foxonjohn.ca/): 4.7/5. The happy hour menu is so good, I order the spring roll, crispy chicken and truffle fries. Only truffle fries is just fine, a little bit too hard, compared to price, it is woth to go. 
+[Fox on John](https://www.foxonjohn.ca/): 4.7/5. The happy hour menu is so good, I order the spring roll, crispy chicken and truffle fries. Only truffle fries is just fine, a little bit too hard, compared to price, it is worth to go. 
 
 [富来小厨](https://www.facebook.com/sangsfood/?locale=zh_CN): 4.5/5. Japanese toufu and Chiken hot pot is great, needs to book in advance.
 
@@ -50,6 +52,11 @@ order: 1
 
 [Happy Valley Village 山里屯](https://www.instagram.com/happyvalleyvillage/?igshid=NDk2dHVtZGk2d2dq): 4.6/5. Nice to have a try if there are many people.
 
+[华星 Chi Star House](https://chistarhouse.urbaneater.ca/): 4.9/5. Worth to take a look at all their meals, their fried yogurt is the best. Also the duck and chicken is delicious. Worth to go to have a try. They have cash discount.
+
+[后海味北京铜锅涮肉 Beijing Hot Pot Restaurant](https://info.yorkbbs.ca/detail/pot/80dd7c7a-242f-49b7-b369-13d184329b2d): 
+4.7/5. If you want to have a try with special beijing style hot pot, this worth to have a try, the pot has no taste, only pure water. This will let you to taste the original quality of the meat, and the source is good. 
+
 [Ian Cakery](https://www.iancakery.ca/): 4.5/5. Honestly I just take a little dessert, but it is good for their cream puff.
 
 [IL FORNELLO](https://ilfornello.com/): 4.0/5. Ok Italian food, price is a little high, record for my meet with previous manager and team members.
@@ -68,9 +75,13 @@ order: 1
 
 [Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, declicious food, my favorite Thai food in Toronto.
 
+[Lao Lao Bar](https://laolaobar.com/): 4.6/5. Special south-east food, the quantity is not that large, considering the location, price is ok, can try if you live nearby, Their chicken plate is pretty good.
+
 [Lee](https://leerestaurant.com/): 4.3/5. Average price 100+, Singapore style slaw worth to try, other is also ok, worth to go for one time.
 
 [刘一手火锅](https://www.liuyishouna.com/): 4.2/5. Just so so for a hot pot, you can have a try at this restaurant, at least it is not bad.
+
+[摸鱼 More Fish Restaurant](https://order.mrsdigi.com/004113222710074/e4804258-52cf-5114-ac71-3ba9b390f94b#/store-home): 3.9/5. Price is a little expensive compared to quantity. Although their recommendation is fish, but the fish is not that good and it is more than $40 for a plate, way too expensive, not recommend.
 
 [麻布](https://mabugeneration.com)：4.0/5. Order the out for delivery food, quantity is small compared to previous one.
 
@@ -84,7 +95,7 @@ order: 1
 
 [Muay Thai Bar & Restaurant](https://www.yelp.ca/biz/muay-thai-restaurant-and-bar-toronto): 4.8/5. Good price and food, delicious meal, drink is also great, service excellent!
 
-[Myungdong Noodle Shabu Shabu](https://www.mdkalguksu.com/): 4.4/5. Pan fried dumplings is good, ok Korea food, can try if you walk pass by, it is interesting that it locates in Indian town.
+[Myungdong Noodle Shabu Shabu](https://www.mdkalguksu.com/): 4.2/5. Pan fried dumplings is good, ok Korea food, can try if you walk pass by, it is interesting that it locates in Indian town.
 
 [粘一筷子](https://info.yorkbbs.ca/detail/sichuan/a137d8ad-78c3-4975-a5a1-35e58dfb3c63): 4.8/5. Spicy SiChuan food, large quantity, can only walk in, so need to wait.
 
@@ -100,7 +111,7 @@ order: 1
 
 [Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad.
 
-[松亭寿喜烧 Matsutei Sukiyaki](https://www.instagram.com/matsuteisukiyaki/): 4.4/5. Ok food, if you live in downtown and cannot go to Daimaru, this might be the choice.
+[松亭寿喜烧 Matsutei Sukiyaki](https://www.instagram.com/matsuteisukiyaki/): 4.3/5. Ok food, if you live in downtown and cannot go to Daimaru, this might be the choice.
 
 [Sun Chinese Cuisine 孙记兰州拉面](https://order.mealkeyway.com/customer/release/index?mid=31313976723430517a6b59556249366e772b646574513d3d#/main): 4.3/5. Ok noodle, worth to go if you live nearby. 
 
@@ -110,9 +121,9 @@ order: 1
 
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 4.1/5. Good price and location, close to union station, worth to go after work with colleagues.
 
-[西域食府](https://magicaltasteofchina.com/dt476): 4.3/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
+[西域食府](https://magicaltasteofchina.com/dt476): 4.4/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
 
-[先启半步颠](http://www.banbudian.com/): 4.5/5. Pre-made food, but the price is cheap, also they have cash discount. Can go if you have no other choice. 
+[先启半步颠](http://www.banbudian.com/): 4.4/5. Pre-made food, but the price is cheap, also they have cash discount. Can go if you have no other choice. 
 
 [xiangzi hotpot宽窄巷子](https://xiangzihotpot.com/): 4.1/5. Not too many types of food, not good service, pot-stewed meat and vegetables are ok.
 

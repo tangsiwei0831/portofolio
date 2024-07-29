@@ -13,6 +13,9 @@ order: 5
    * Reasons for backfilling: new workflow deployment, data pipeline modification, daa loss recovery or consistency across systems
    * Suppoese there is a DAG scheduled to run daily, start date is Jan 1st 2023, and deploy time is Jan 10th 2023. If `catch_up` is true, hen it will run 9 times in a row.
 
+# Scheduling
+The DAG running time is based on the start_date and end_date. For example, if I set the DAG to be running every day at 5 am Toronto time. Then if I set catch up parameter to be false, and the start date to be 2024-07-24. Then if I switch on DAG on 7-24, the DAG will not start running immediately, it will start from start_date + schedule_interval which is 24 hours after -25 which is 7-25. Therefore, the job will start at 7-25 5am.
+
 # Sample Airflow structure
 ```
 def create_dag(...):
@@ -28,6 +31,8 @@ globals()[dag_id] = create_dag(...)
         'project_id': ...,
         'depends_on_past': ...,
         'wait_for_downstream': ...,
+        'start_date': ...,
+        'end_date': ...,
         ...
     }
     ```

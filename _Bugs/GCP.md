@@ -58,10 +58,12 @@ To check dataflow customized log, either in dataflow job, or we can check throug
     ```
 
 # Batch
-Pyhon Oracledb package, the error like that indicates that for one column, data may be missing for some of the records, check [link](https://github.com/oracle/python-oracledb/issues?q=is%3Aissue+dpy-3013).
+1. Pyhon Oracledb package, the error like that indicates that for one column, data may be missing for some of the records,    check [link](https://github.com/oracle/python-oracledb/issues?q=is%3Aissue+dpy-3013).
     ```
     DPY-3013 unsupported Python type *** for database type DB_TYPE_VARCHAR
     ```
+   In order to solve the problem, the easiest way is to for each chunk of data insertion, create the cursor first and then close the cursor later according to the comments in github issue.
+2. For GCP batch job, it sometiems failed due to large amount of data insertion, the error message is docker error, exit code - 137.  Therefore, to solve the problem, I check the dataflow job which afford these level of volume, then use the same configuration into my batch job, finally it works as expected. 
 
 # BigQuery
 In BigQuery, date type represents string that contains only date information such as "2024-06-01", while timestamp type can either be a string like "2024-06-01T17:00:00+00.00" or python datetime object. these two cannot be mixed.
