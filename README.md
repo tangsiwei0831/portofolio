@@ -15,7 +15,6 @@ bundle install
 bundle exec jekyll serve --livereload
 ```
 
-
 # Issue encountered in the build
 
 1. VSCode shows error `Dev Container Configuration '.devcontainer/devcontainer.json' file already exists.`

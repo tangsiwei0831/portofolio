@@ -103,6 +103,8 @@ order: 1
 
 [Pita Lite Shawarma](https://pitalite.com/): 4.3/5. Chain store, cheap price to take shawarma, I like the chicken bowl, pretty good. 
 
+[青屿治茶The Green Isle](https://cloud.quickposhub.com/onlineorder/#/pages/order/index?hotelid=111801&fc=up): 4.9/5. I like this store the most in Toronto for their teas. 
+
 [RASA](https://www.rasabar.ca/): 4.5/5. Octopus, shrimp and burger are all good. But the price is too high compared to quantity, can go once to take a try. 
 
 [Ramen X Remix](https://ramenxremix.com/): 4.4/5. Pretty special ramen, but the price is a little high compared to other ramen.
@@ -140,4 +142,6 @@ order: 1
 [真东北饺子馆](https://kb.51.ca/item/18)：3.7/5. Dumpling is fine, other dishes are bad.
 
 [真牛中式烤肉 Kung Fu Beef Chinese BBQ](https://www.yelp.ca/biz/kung-fu-beef-chinese-bbq-%E7%9C%9F%E7%89%9B%E4%B8%AD%E5%BC%8F%E7%83%A4%E8%82%89-toronto): 4.3/5. Food is ok, lots of types to choose, worth to have a try. 
+
+[正宗维吾尔族餐厅 Charcoal Kebab House](https://www.ubereats.com/ca/store/charcoal-kebab-house-%E6%AD%A3%E5%AE%97%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F%E9%A4%90%E5%8E%85/Uvl8MVXVTA-lQvBo2w8nqg): 4.8/5. Huge amount, I like the lamb rice and the yogurt is also awesome.
 
