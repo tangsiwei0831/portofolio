@@ -26,6 +26,8 @@ order: 1
 
 [DZO VIET EATERY](https://www.dzovieteatery.com/): 4.4/5. Good Vietnam food, too much oil on the food, price is good too.
 
+[Earls Kitchen + bar](https://earls.ca/): 4.6/5. I went there to participate my first rotation team celebration event, the menu is specialized, but it was amazing that the amount of chicken and steak they offer are way more than I imagine. Drink is also nice too.
+
 [EDNA + VITA](https://ednavita.com/): 4.4/5. Food is nice, the quantity is not that much, service always suurounds you, sometimes a little bit annoying. 
 
 [Egg Club](https://eggclub.ca/): 4.5/5. A decent sandiwich, socre can be higher if price lower.
@@ -87,6 +89,8 @@ order: 1
 
 [满江红(Red Lotus Restaurant)](https://www.ubereats.com/ca/store/red-lotus-restaurant-%E6%BB%A1%E6%B1%9F%E7%BA%A2/cOK3ioIMTX2YFqn6UvlnQQ): 4.5/5. Cooking is ok, not small quantity, can take a try when ou walk pass by.
 
+[Maguro House](https://www.yelp.ca/biz/maguro-house-toronto): 4.5/5. Compared to normal Japanaese restaurant, pretty large amount.
+
 [Mezcalero](https://mezcalerotoronto.com/): 4.6/5. Good Spanish food, cheap price, worth to try their seafood paella.
 
 [Miller Tavern](https://themillertavern.com/): 4.4/5. Ok food, amount is not small, price not cheap, if you reach around lake, could have a try.
@@ -114,6 +118,8 @@ order: 1
 [Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.9/5. Typical America food, washroom smells bad.
 
 [松亭寿喜烧 Matsutei Sukiyaki](https://www.instagram.com/matsuteisukiyaki/): 4.3/5. Ok food, if you live in downtown and cannot go to Daimaru, this might be the choice.
+
+[Soya mandarin kitchen](https://www.soyakitchen.com/): 4.5/5. Peking duck is not worth to order, pepper fired tofu and dim sum is pretty awesome.
 
 [Sun Chinese Cuisine 孙记兰州拉面](https://order.mealkeyway.com/customer/release/index?mid=31313976723430517a6b59556249366e772b646574513d3d#/main): 4.3/5. Ok noodle, worth to go if you live nearby. 
 
