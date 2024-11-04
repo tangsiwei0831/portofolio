@@ -34,6 +34,8 @@ order: 1
 
 [Egg Static](https://eggstatic.ca/home): 4.5/5. Good brunch food, nice drink, but service a little unprofessional. 
 
+[Elephant & Castle](https://www.elephantcastle.com/?gad_source=1&gclid=Cj0KCQjwvpy5BhDTARIsAHSilylPuBM6W4Y1Vc3dNETeiRHQMEJHl6JyWTepEPVDX09rdGoM6KeVU7EaAmNbEALw_wcB): 4.1/5. Normal bar food. 
+
 [Fox on John](https://www.foxonjohn.ca/): 4.7/5. The happy hour menu is so good, I order the spring roll, crispy chicken and truffle fries. Only truffle fries is just fine, a little bit too hard, compared to price, it is worth to go. 
 
 [富来小厨](https://www.facebook.com/sangsfood/?locale=zh_CN): 4.5/5. Japanese toufu and Chiken hot pot is great, needs to book in advance.
@@ -44,6 +46,8 @@ order: 1
 
 [付小姐在成都 Miss Fu In Chengdu](https://www.missfuinchengdu.ca/): 4.5/5. It is good to try instant boiled spicy hot pot. 
 
+[Good Catch Bar & Cafe](https://goodcatchbarcafe.com/good-catch-cafe/): 4.4/5. Normal Kong Kong style food, pretty large quantity considering price. Recommend Assorted grilled rice.
+
 [狗不理](http://goubuli.ca/): 3.9/5. Food are fine price not that cheap. 
 
 [Gyubee 牛兵卫](https://www.gyubeejapanesegrill.com/): 4.2/5. A famous korea BBQ restaurant, ok to go with friends if you want to eat meat. 
@@ -52,12 +56,14 @@ order: 1
 
 [Hanyang Jokbal](https://www.instagram.com/p/CalWAVCrY69/?igshid=ZDFmNTE4Nzc%3D): 4.7/5. Nice pork hock, it has various taste, but I think original is the best.
 
-[Happy Valley Village 山里屯](https://www.instagram.com/happyvalleyvillage/?igshid=NDk2dHVtZGk2d2dq): 4.6/5. Nice to have a try if there are many people.
-
-[华星 Chi Star House](https://chistarhouse.urbaneater.ca/): 4.9/5. Worth to take a look at all their meals, their fried yogurt is the best. Also the duck and chicken is delicious. Worth to go to have a try. They have cash discount.
+[Happy Valley Village 山里屯](https://www.instagram.com/happyvalleyvillage/?igshid=NDk2dHVtZGk2d2dq): 4.5/5. Nice to have a try if there are many people.
 
 [后海味北京铜锅涮肉 Beijing Hot Pot Restaurant](https://info.yorkbbs.ca/detail/pot/80dd7c7a-242f-49b7-b369-13d184329b2d): 
 4.7/5. If you want to have a try with special beijing style hot pot, this worth to have a try, the pot has no taste, only pure water. This will let you to taste the original quality of the meat, and the source is good. 
+
+[华星 Chi Star House](https://chistarhouse.urbaneater.ca/): 4.9/5. Worth to take a look at all their meals, their fried yogurt is the best. Also the duck and chicken is delicious. Worth to go to have a try. They have cash discount.
+
+[Huh Ga Ne](http://www.huhgane.com/): 4.5/5. Nice Korea food, fried intestine is awesome. 
 
 [Ian Cakery](https://www.iancakery.ca/): 4.5/5. Honestly I just take a little dessert, but it is good for their cream puff.
 

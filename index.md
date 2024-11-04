@@ -10,4 +10,4 @@ This is a website about me. Keep my records for future usage. Feel free to explo
 # Introduction
 
 Check for different sections, life section includes my restaurant list, movies.
-Tech part contains my projects, leetcode and  Ibugs encountered in work.
+Tech part contains my projects, leetcode and  bugs I encounter in work.
