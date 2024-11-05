@@ -2,7 +2,7 @@
 layout: post
 title:  "5. Apache Airflow"
 category: tech
-permalink: /tech/bugs/airflow
+permalink: /tech/work/airflow
 order: 5
 ---
 # Cmommon Knowledge

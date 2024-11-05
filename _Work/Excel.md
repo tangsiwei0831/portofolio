@@ -2,7 +2,7 @@
 layout: post
 title:  "2. Excel"
 category: tech
-permalink: /tech/bugs/excel
+permalink: /tech/work/excel
 order: 2
 ---
 # Note

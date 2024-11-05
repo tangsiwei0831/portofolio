@@ -2,7 +2,7 @@
 layout: post
 title:  "4. Data Warehousing"
 category: tech
-permalink: /tech/bugs/warehousing
+permalink: /tech/work/warehousing
 order: 4
 ---
 # Slowly changing dimensions

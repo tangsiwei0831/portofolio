@@ -2,7 +2,7 @@
 layout: post
 title:  "1. Apache Beam"
 category: tech
-permalink: /tech/bugs/beam
+permalink: /tech/work/beam
 order: 1
 ---
 # Structure

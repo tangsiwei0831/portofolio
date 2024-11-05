@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
 
 collections:
-  Bugs:
+  Work:
     output: true
     permalink: /portfolio/:path/
     sort_by: order

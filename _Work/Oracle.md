@@ -2,7 +2,7 @@
 layout: post
 title:  "6. Oracle"
 category: tech
-permalink: /tech/bugs/oracle
+permalink: /tech/work/oracle
 order: 6
 ---
 # miscellaneous bug
