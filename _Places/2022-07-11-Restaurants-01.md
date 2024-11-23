@@ -20,6 +20,8 @@ order: 1
 
 [Deer Garden](https://www.deergarden.net/): 4.6/5. Noodle is prety good and large quantity, Hainan Chicken is also delicious!
 
+[Delicacy Kitchen 广州清心鸡](https://www.delicacy-kitchen.com/)： 4.5/5. Chicken is prey awesome, quatity is large, emmm, the flavor is not that salty on some dishes, I would try if I go the Cosco nearby.
+
 [Dong Kee Chinese Restaurant](https://www.yelp.ca/biz/dong-kee-toronto): 4.8/5. Cantonese cuisine, very cheap price, six poeple totally $207, would recommend go again.
 
 [斗地主炸串 Lucky Ace BBQ](https://www.ubereats.com/ca/store/lucky-ace-bbq-%E6%96%97%E5%9C%B0%E4%B8%BB%E7%82%B8%E4%B8%B2/R-UNJVRrXR2k8t5GVzJW1A): 4.3/5. Chicken stripe is good, but their source is sweet and not spicy, can imprive more if they can change the taste of the souce. Can take a try if you walk by to the supermarket. They have cash discount.
@@ -150,6 +152,8 @@ order: 1
 [一家川菜馆](https://www.yijiachuancaiguan.com/): 4.2/5. close to UTSG, good price, ok food, cash price including tax 80 dollar is enough for at least three people have meal.
 
 [有米酸奶](https://www.yomiesriceyogurt.com/): 4.6/5. Order Mango Pomelo Sago Yogurt, I like it!
+
+[Za Cafe Pizzeria and Bar](http://www.zaonbay.ca/): 4.6/5. Excellent pizza and pastas. If you live close to union station, worth to take a try for Italian food.
 
 [真东北饺子馆](https://kb.51.ca/item/18)：3.7/5. Dumpling is fine, other dishes are bad.
 
