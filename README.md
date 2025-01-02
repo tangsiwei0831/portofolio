@@ -21,6 +21,8 @@ bundle exec jekyll serve --livereload
 
     Check [Solution](https://github.com/microsoft/vscode-remote-release/issues/9303)
 
+2. If reload command does not work, the root cause may be that the autosave in VSCode is not open.
+
 # Resource
 [Youtube - BillRaymond](https://www.youtube.com/watch?v=zijOXpZzdvs&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
 
