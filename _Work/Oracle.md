@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "6. Oracle"
+title:  "9. Oracle"
 category: tech
 permalink: /tech/work/oracle
-order: 6
+order: 9
 ---
 # miscellaneous bug
 1. DPY-3013: unsupported Python type int for database type DB_TYPE_VARCHAR

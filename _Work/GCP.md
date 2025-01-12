@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "3. GCP"
+title:  "6. GCP"
 category: tech
 permalink: /tech/work/gcp
-order: 3
+order: 6
 ---
 
 # Note
@@ -69,18 +69,20 @@ To check dataflow customized log, either in dataflow job, or we can check throug
 In BigQuery, date type represents string that contains only date information such as "2024-06-01", while timestamp type can either be a string like "2024-06-01T17:00:00+00.00" or python datetime object. these two cannot be mixed.
 
 # Google Kubernetes Engine(GKE)
-## Port Forwarding
-Port forwarding is a network technique used to redirect incoming traffic from one IP address and port number combination to another. It’s commonly used to allow external devices or services to connect to specific resources within a private or protected network. This approach enables devices outside of a firewall (or within isolated network segments) to communicate with specific services hosted within the protected network by mapping an external port to an internal port. Kubernetes clusters typically use private networking for security, isolating the pods from direct external access.
+1. Port Forwarding
 
-Command: 
-    ```
-    gcloud config set project <project name>
+    Port forwarding is a network technique used to redirect incoming traffic from one IP address and port number combination to another. It’s commonly used to allow external devices or services to connect to specific resources within a private or protected network. This approach enables devices outside of a firewall (or within isolated network segments) to communicate with specific services hosted within the protected network by mapping an external port to an internal port. Kubernetes clusters typically use private networking for security, isolating the pods from direct external access.
 
-    gcloud container clusters get-credenials ... --zone ...
+    Command: 
 
-    kubectl config set-context --current --namespace=...
+        ```
+        gcloud config set project <project name>
 
-    kubectl get pods
-    
-    kubectl port-forward <podname> 8081:8080 -n <namespace>
-    ```
+        gcloud container clusters get-credenials ... --zone ...
+
+        kubectl config set-context --current --namespace=...
+
+        kubectl get pods
+        
+        kubectl port-forward <podname> 8081:8080 -n <namespace>
+        ```

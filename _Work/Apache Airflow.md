@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "5. Apache Airflow"
+title:  "1. Apache Airflow"
 category: tech
 permalink: /tech/work/airflow
-order: 5
+order: 1
 ---
 # Cmommon Knowledge
 1. Data pipeline has two types, **streaming** and **batch**. Steaming data pipeline is real time and bacth data pipeline 

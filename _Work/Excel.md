@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "2. Excel"
+title:  "5. Excel"
 category: tech
 permalink: /tech/work/excel
-order: 2
+order: 5
 ---
 # Note
 1. When download online Google sheet with multiple tabs, the only version to choose is xlsx which is excel. 

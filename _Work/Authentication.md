@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "7. Authentication"
+title:  "3. Authentication"
 category: tech
 permalink: /tech/work/auth
-order: 7
+order: 3
 ---
 # JWT Token
 A user sends his login credential(e.g. username and password) to authenication server(backend API), the server auhenticates user by verifying credentials. Once success, generates a JWT token containing header, payload(expiration time...metadata), token string. Client stores the token in differen ways, when make requests to the server, it includes JWT in the Authorization header of HTTP request as `Authorization: Bearer <JWT>`
